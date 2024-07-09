@@ -1,3 +1,4 @@
 #Learn-GEE
-ML using GEE javascript API
+learning ML using GEE (Google Earth Engine) javascript API as a beginner 
+
 
