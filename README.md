@@ -1,7 +1,7 @@
 #Learn-GEE
 learning ML using GEE (Google Earth Engine) javascript API as a beginner 
-
 Practicing google earth engine with javascript api 
+
 ![Capture d'écran 2024-07-08 111849](https://github.com/an162/GEE/assets/120314934/71362980-f90a-4c33-811a-1a81798aacd0)
 ![Capture d'écran 2024-07-08 111938](https://github.com/an162/GEE/assets/120314934/45d52321-334b-49c0-9d72-4d2c24682509)
 ![Capture d'écran 2024-07-08 111954](https://github.com/an162/GEE/assets/120314934/d13edef1-2ad0-4a22-9fd0-9a6eae216171)
