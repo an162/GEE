@@ -10,7 +10,7 @@ learning ML using GEE (Google Earth Engine) javascript API as a beginner
 ![Capture d'écran 2024-07-08 111921](https://github.com/an162/GEE/assets/120314934/ac493da9-0b56-41f9-9925-44d40f14569a)
 
 
-learning results:
+learning results: ( the repo contains more than what is presented here )
 
 Part I: Programming and Remote Sensing Basics
 Objective: To gain a fundamental understanding of remote sensing data and programming.
